@@ -1,0 +1,85 @@
+{
+  "illuminant_ambient": 0.1,
+  "illuminant_color": [
+    1,
+    1,
+    1,
+    0
+  ],
+  "illuminant_intensity": 1,
+  "illuminant_map": "illuminant_map.png",
+  "illuminant_position": [
+    0,
+    0,
+    2,
+    1
+  ],
+  "illuminant_spread": 100,
+  "illuminant_target": [
+    0,
+    0,
+    0,
+    1
+  ],
+  "light_ambient": 0.1,
+  "light_color": [
+    1,
+    1,
+    1,
+    0
+  ],
+  "light_intensity": 1,
+  "light_position": [
+    2,
+    8,
+    10,
+    1
+  ],
+  "menu_font": "Mplus1-Regular.ttf",
+  "menu_font_size": 20,
+  "mirror_diffuse": [
+    0.1,
+    0.1,
+    0.1,
+    0
+  ],
+  "mirror_height_map": "height_map_128.png",
+  "mirror_height_scale": 1,
+  "mirror_position": [
+    0,
+    0,
+    0,
+    1
+  ],
+  "mirror_sample_count": 100,
+  "mirror_shininess": 100,
+  "mirror_specular": [
+    0.9,
+    0.9,
+    0.9,
+    0
+  ],
+  "mirror_target": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "receiver_model": "logo.obj",
+  "receiver_orientation": [
+    0,
+    0,
+    0,
+    1
+  ],
+  "receiver_position": [
+    0,
+    0,
+    5,
+    1
+  ],
+  "window_size": [
+    1280,
+    960
+  ]
+}
