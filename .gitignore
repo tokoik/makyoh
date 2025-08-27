@@ -33,6 +33,7 @@ xcuserdata
 /packages/
 *.com
 *.exe
+*.msi
 *.ncb
 *.suo
 *.user
