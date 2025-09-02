@@ -23,6 +23,7 @@ xcuserdata
 *.moved-aside
 *.xcuserstate
 *.xccheckout
+.DS_Store
 #
 # for Windows
 #
@@ -44,18 +45,17 @@ xcuserdata
 *.opendb
 *.db
 *.aps
+Thumbs.db
+desktop.ini
 #
 # anothre stuff
 #
+/pdf/**
+!/pdf/refman.pdf
+!/lib/**
+.vscode/
 *~
 *.bak
 *.tmp
 *.swp
-*.aps
 imgui.ini
-/pdf/*
-!/pdf/refman.pdf
-!/lib/**
-.vscode/
-Thumbs.db
-.DS_Store
